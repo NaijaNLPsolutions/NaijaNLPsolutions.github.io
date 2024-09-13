@@ -1,4 +1,4 @@
-# ![Naija NLP Solutions](https://your-logo-url-here.com)  
+# ![Naija NLP Solutions](https://img.icons8.com/fluency/96/000000/artificial-intelligence.png)  
 **Empowering Nigerian Languages with AI**  
 
 ---
@@ -9,7 +9,7 @@ At **Naija NLP Solutions**, we are dedicated to revolutionizing communication by
 
 ---
 
-## ![Mission Icon](https://your-mission-icon-url-here.com) Why We Exist
+## ![Mission Icon](https://img.icons8.com/dusk/64/000000/goal.png) Why We Exist
 
 Nigeria is home to over 500 languages, but the majority of these are underrepresented in the digital world. Major technological solutions, including machine translation, chatbots, and virtual assistants, are often unavailable for many Nigerian languages, making communication, accessibility, and information retrieval challenging.
 
@@ -21,31 +21,31 @@ At Naija NLP Solutions, we are on a mission to change that. By leveraging the la
 
 ---
 
-## ![Focus Icon](https://your-focus-icon-url-here.com) Our Focus
+## ![Focus Icon](https://img.icons8.com/dusk/64/000000/focus.png) Our Focus
 
 We are committed to building tools for the following areas:
 
-### 1. ![Translation Icon](https://your-translation-icon-url-here.com) Machine Translation  
+### 1. ![Translation Icon](https://img.icons8.com/external-flat-juicy-fish/60/000000/external-translation-languages-and-translation-flat-flat-juicy-fish.png) Machine Translation  
 We develop translation models that help translate between Nigerian languages and other major languages. This enables easier communication, education, and access to information.
 
-### 2. ![Chatbot Icon](https://your-chatbot-icon-url-here.com) Chatbots  
+### 2. ![Chatbot Icon](https://img.icons8.com/color/60/000000/chatbot.png) Chatbots  
 Our chatbots are designed to interact in local languages, providing users with real-time assistance and answers in their preferred language. These bots can be integrated into customer support, healthcare, and educational platforms.
 
-### 3. ![Virtual Assistant Icon](https://your-virtual-assistant-icon-url-here.com) Virtual Assistants  
+### 3. ![Virtual Assistant Icon](https://img.icons8.com/fluency/60/000000/voice-id.png) Virtual Assistants  
 Imagine a virtual assistant that understands and speaks your native language. Our solutions help bring this to life for low-resource Nigerian languages, making technology more accessible and user-friendly.
 
 ---
 
-## ![Languages Icon](https://your-languages-icon-url-here.com) Why Nigerian Languages Matter
+## ![Languages Icon](https://img.icons8.com/fluency/64/000000/language.png) Why Nigerian Languages Matter
 
 Each Nigerian language carries its own rich cultural heritage, values, and knowledge. However, many of these languages are classified as low-resource, meaning they lack the data necessary to train high-quality language models. We focus on languages such as Hausa, Yoruba, Igbo, and more underrepresented ones like Nupe, Tiv, Fulfulde, Gbagyi, and Idoma, giving these languages the voice they deserve in the digital age.
 
 ---
 
-## ![Approach Icon](https://your-approach-icon-url-here.com) Our Approach
+## ![Approach Icon](https://img.icons8.com/external-itim2101-lineal-color-itim2101/64/000000/external-innovation-technology-itim2101-lineal-color-itim2101.png) Our Approach
 
 ### 1. Data Collection & Curation  
-We gather high-quality text and speech data from native speakers to create datasets that represent the linguistic richness of Nigerian languages. Our NaijaCodeSWI project, for instance, aims to create a benchmark code-switch text and speech dataset for Nigerian languages.
+We gather high-quality text and speech data from native speakers to create datasets that represent the linguistic richness of Nigerian languages. Our [NaijaCodeSWI project](#) aims to create a benchmark code-switch text and speech dataset for Nigerian languages.
 
 ### 2. Collaborative Research  
 We partner with researchers, universities, and communities to co-create solutions that are practical, relevant, and impactful. Our goal is to bring academia, industry, and local communities together for the advancement of language technologies.
@@ -55,13 +55,13 @@ Using the latest in unsupervised, self-supervised, and transfer learning models,
 
 ---
 
-## ![Join Icon](https://your-join-icon-url-here.com) Join Us
+## ![Join Icon](https://img.icons8.com/color/64/000000/handshake.png) Join Us
 
 We are looking for partners, collaborators, and communities who are passionate about the future of Nigerian languages in the digital world. Whether you're a developer, researcher, or simply a language enthusiast, you can contribute to this revolution.
 
 ---
 
-## ![Contact Icon](https://your-contact-icon-url-here.com) Contact Us
+## ![Contact Icon](https://img.icons8.com/fluency/64/000000/email.png) Contact Us
 
 If you're interested in learning more or want to collaborate with us, reach out to us at:
 
@@ -70,10 +70,10 @@ If you're interested in learning more or want to collaborate with us, reach out 
 - **Address:** Gubi, ATBU Campus, Bauchi, Nigeria  
 
 Follow us on social media:  
-[![Twitter](https://your-twitter-icon-url-here.com)](https://twitter.com)  
-[![LinkedIn](https://your-linkedin-icon-url-here.com)](https://linkedin.com)  
-[![GitHub](https://your-github-icon-url-here.com)](https://github.com)
+[![Twitter](https://img.icons8.com/fluency/48/000000/twitter.png)](https://twitter.com)  
+[![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://linkedin.com)  
+[![GitHub](https://img.icons8.com/fluency/48/000000/github.png)](https://github.com)
 
 ---
 
-![Footer Image](https://your-footer-image-url-here.com)
+![Footer Image](https://unsplash.com/photos/hMQArks7rEM/download?force=true)
