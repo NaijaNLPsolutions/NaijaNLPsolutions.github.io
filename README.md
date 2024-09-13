@@ -21,6 +21,12 @@ At Naija NLP Solutions, we are on a mission to change that. By leveraging the la
 
 ---
 
+## ![Video Icon](https://img.icons8.com/fluency/48/000000/video.png) Watch Our Introduction Video
+
+Check out this [introductory video](https://www.youtube.com/) about Naija NLP Solutions. Learn how we are bringing AI-powered language solutions to Nigerian languages and creating new opportunities for communication and accessibility.
+
+---
+
 ## ![Focus Icon](https://img.icons8.com/dusk/64/000000/focus.png) Our Focus
 
 We are committed to building tools for the following areas:
@@ -55,9 +61,26 @@ Using the latest in unsupervised, self-supervised, and transfer learning models,
 
 ---
 
+## ![Video Section Icon](https://img.icons8.com/fluency/48/000000/video.png) More Videos
+
+- [Project Overview - Machine Translation](https://www.youtube.com/)  
+- [Chatbot in Action - Demo](https://www.youtube.com/)  
+- [Virtual Assistants for Nigerian Languages](https://www.youtube.com/)  
+
+---
+
 ## ![Join Icon](https://img.icons8.com/color/64/000000/handshake.png) Join Us
 
 We are looking for partners, collaborators, and communities who are passionate about the future of Nigerian languages in the digital world. Whether you're a developer, researcher, or simply a language enthusiast, you can contribute to this revolution.
+
+---
+
+## ![Next Pages Icon](https://img.icons8.com/dusk/64/000000/next.png) Explore More
+
+- [Our Projects](https://github.com/)  
+- [Data Collection](https://github.com/)  
+- [NLP Solutions](https://github.com/)  
+- [Contact Us](https://github.com/)
 
 ---
 
