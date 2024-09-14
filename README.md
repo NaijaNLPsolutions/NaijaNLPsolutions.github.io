@@ -28,17 +28,17 @@ Check out this [introductory video](https://www.youtube.com/) about Naija NLP So
 
 ---
 
-## ![Focus Icon](https://img.icons8.com/dusk/64/000000/focus.png) Our Focus
+##  Our Focus
 
 We are committed to building tools for the following areas:
 
-### 1. ![Translation Icon](https://img.icons8.com/external-flat-juicy-fish/60/000000/external-translation-languages-and-translation-flat-flat-juicy-fish.png) Machine Translation  
+### 1. Machine Translation  
 We develop translation models that help translate between Nigerian languages and other major languages. This enables easier communication, education, and access to information.
 
-### 2. ![Chatbot Icon](https://img.icons8.com/color/60/000000/chatbot.png) Chatbots  
+### 2. Chatbots  
 Our chatbots are designed to interact in local languages, providing users with real-time assistance and answers in their preferred language. These bots can be integrated into customer support, healthcare, and educational platforms.
 
-### 3. ![Virtual Assistant Icon](https://img.icons8.com/fluency/60/000000/voice-id.png) Virtual Assistants  
+### 3. Virtual Assistants  
 Imagine a virtual assistant that understands and speaks your native language. Our solutions help bring this to life for low-resource Nigerian languages, making technology more accessible and user-friendly.
 
 ---
