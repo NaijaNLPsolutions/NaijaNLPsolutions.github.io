@@ -1,4 +1,4 @@
- # Naija NLP Solutions
+ Naija NLP Solutions
 
 ## Innovating NLP for Low-Resource African Languages
 
