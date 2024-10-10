@@ -1,0 +1,34 @@
+/* style.scss */
+
+/* Change the background color of the body */
+body {
+    background-color: #f0f0f0; /* Light grey */
+}
+
+/* Change the text color */
+h1, h2, h3 {
+    color: #333333; /* Dark grey */
+}
+
+/* Link colors */
+a {
+    color: #1a0dab; /* Blue */
+}
+
+a:hover {
+    color: #d14836; /* Darker shade on hover */
+}
+
+/* Button styles */
+.button {
+    background-color: #4CAF50; /* Green */
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: #45a049; /* Darker green on hover */
+}
